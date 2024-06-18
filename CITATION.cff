@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: inertial_cavitation_particle_tracker
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Talaial
+    family-names: Alina
+    orcid: 'https://orcid.org/0000-0002-7850-0828'
+    affiliation: University of Colorado at Boulder
+    email: talaial.alina@colorado.edu
+    name-particle: Talaial
+repository-code: 'https://github.com/ThundaNann/particle_tracker'
+abstract: >-
+  Image processing pipeline to process videos of particles
+  undergoing inertial cavitation
+keywords:
+  - focused ultrasound
+  - cavitation
+  - active matter
+  - nanotechnology
+  - silica
+  - polymer microparticles
+license: Apache-2.0
+version: '1.0'
+date-released: '2024-06-19'
