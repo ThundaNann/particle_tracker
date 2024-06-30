@@ -13,7 +13,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-7850-0828'
     affiliation: University of Colorado at Boulder
     email: talaial.alina@colorado.edu
-    name-particle: Talaial
+    name-particle: 
 repository-code: 'https://github.com/ThundaNann/particle_tracker'
 abstract: >-
   Image processing pipeline to process videos of particles
