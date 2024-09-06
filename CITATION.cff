@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: particle_tracker
+title: inertial_cavitation_particle_tracker
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
